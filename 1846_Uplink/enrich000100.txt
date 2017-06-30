@@ -1,0 +1,101 @@
+SYS	Autor	Titel	ISBN	Auflage	Ort	Verlag	Jahr	Suche	LoC: LCCN	LoC: DDC	DNB: ppn	DNB: DDC	GVK: ppn	GVK: DDC	British Library: SYS	British Library: DDC	Cern: 001	Cern: DDC
+9781484213728/sfi|	Adler, Stephen L.	Current algebras	|		New York	Benjamin	1968	Adler Current algebras 1968
+000000003|	Barut, A. O.	Die Theorie der Streumatrix fuer die Wechselwirkungen fundamentaler Teilchen. I	|		Mannheim	Bibliograph. Inst.	1971	Barut Theorie Streumatrix Wechselwirkungen fundamentaler Teilchen 1971
+000000004|	Barut, A. O.	Die Theorie der Streumatrix fuer die Wechselwirkungen fundamentaler Teilchen. II	|		Mannheim	Bibliograph. Inst.	1971	Barut Theorie Streumatrix Wechselwirkungen fundamentaler Teilchen 1971
+9783836238212/sfi|	Pantaleo, M.	Relativity, quanta, and cosmology in the development of the scientific thought of Albert Einstein. (Vol.2.)	0384140912|		New York	Johnson Reprint Corp	1979	Pantaleo Relativity quanta cosmology development scientific thought Albert Einstein 1979
+000000011|	Whittaker, E. T.	A course of modern analysis	|	4th ed.	Cambridge	Cambridge Univ. Pr.	1963	Whittaker course modern analysis 1963
+000000015|	Kessler, Franz Rudolf	Kernenergiegewinnung und Kernstrahlung	3499270110|	2., verb. Aufl.	Reinbek	Rowohlt	1974	Kessler Kernenergiegewinnung Kernstrahlung 1974
+9781498730389/sfi|	Carman, R. A.	Zahlen und Einheiten der Physik	|		Berlin	de Gruyter	1972	Carman Zahlen Einheiten Physik 1972
+000000017|	Aitken, A. C.	Statistical mathematics	|	7th, rev. ed.	Edinburgh	Oliver & Boyd	1952	Aitken Statistical mathematics 1952
+000000019|	Hund, Friedrich	Einfuehrung in die theoretische Physik	|		Leipzig	Bibliograph. Inst.	1947	Hund Einfuehrung theoretische Physik 1947
+000000020|	Klose, Wolfgang	Kleine Einfuehrung in die moderne Festkoerperphysik	3571192478|		Duesseldorf	Bertelsmann	1974	Klose Kleine Einfuehrung moderne Festkoerperphysik 1974
+000000021|	Heisenberg, W.	Theorie des Atomkerns	|		Goettingen	MPI Phys.	1951	Heisenberg Theorie Atomkerns 1951
+9781519773050/sfi|	Pauling, Linus	Introduction to quantum mechanics	|		New York	McGraw-Hill	1935	Pauling Introduction quantum mechanics 1935
+9781784396978/sfi|	Mayer, Joseph E.	Statistical mechanics	|		New York	Wiley	1940	Mayer Statistical mechanics 1940
+000000024|	Heisenberg, W.	Theorie der Neutronen	|		Goettingen	MPI Phys.	1952	Heisenberg Theorie Neutronen 1952
+9781785286223/sfi|	Dreyer, J. L. E.	A history of astronomy from Thales to Kepler	|		New York	Dover	1953	Dreyer history astronomy Thales Kepler 1953
+000000026|	Hund, Friedrich	Geschichte der physikalischen Begriffe	|		Mannheim	Bibliograph. Inst.	1972	Hund Geschichte physikalischen Begriffe 1972
+000000027|	Hund, Friedrich	Einfuehrung in die theoretische Physik	|		Leipzig	Bibliograph. Inst.	1945	Hund Einfuehrung theoretische Physik 1945
+000000028|	Glasstone, Samuel	The elements of nuclear reactor theory	|	4th ed.	Princeton	Van Nostrand	1955	Glasstone elements nuclear reactor theory 1955
+000000029|	Born, Max	Atomic physics	|	6th ed.	London	Blackie & Son	1960	Born Atomic physics 1960
+000000032|	Jander, W.	Lehrbuch fuer das anorganisch-chemische Praktikum	|	3. Aufl.	Leipzig	Hirzel	1942	Jander Lehrbuch anorganisch-chemische Praktikum 1942
+000000033|	von Laue, M.	Energiesatz und neuere Physik	|		Berlin	de Gruyter	1943	von Laue Energiesatz neuere Physik 1943
+9781519631459/sfi|	Ford, Kenneth W.	Die Welt der Elementarteilchen	|		Berlin	Springer	1966	Ford Elementarteilchen 1966
+9781522735861/sfi|	Jordan, Pascual	Die Physik des 20. Jahrhunderts	|	6. Aufl.	Braunschweig	Vieweg	1945	Jordan Physik Jahrhunderts 1945
+000000036|	Meschkowski, Herbert	Mathematisches Begriffswoerterbuch	|		Mannheim	Bibliograph. Inst.	1965	Meschkowski Mathematisches Begriffswoerterbuch 1965
+000000037|	Mellor, J. W.	Higher mathematics for students of chemistry and physics	|		New York	Dover	1955	Mellor Higher mathematics students chemistry physics 1955
+9780134395265/sfi|	Fieser, Louis F.	Advanced organic chemistry	|	7th ed.	New York	Van Nostrand Reinhold	1969	Fieser Advanced organic chemistry 1969
+000000039|	Alonso, Marcelo	Quantum mechanics	|		Reading	Addison-Wesley	1973	Alonso Quantum mechanics 1973
+9781519592187/sfi|	Hund, Friedrich	Einfuehrung in die theoretische Physik	|		Leipzig	Bibliograph. Inst.	1947	Hund Einfuehrung theoretische Physik 1947
+000000043|		Symbole, Einheiten und Nomenklatur in der Physik	3876640458|		Weinheim	Physik-Verl.	1980	Symbole Einheiten Nomenklatur Physik 1980
+000000049|	Hughes, I. S.	Elementary particles	|		Harmondsworth	Penguin	1972	Hughes Elementary particles 1972
+000000050|	Hoheisel, Guido	Partielle Differentialgleichungen	|	2., neubearb. Aufl.	Berlin	de Gruyter	1943	Hoheisel Partielle Differentialgleichungen 1943
+000000051|	Bjorken, James D.	Relativistic quantum mechanics	|		New York	McGraw-Hill	1964	Bjorken Relativistic quantum mechanics 1964
+000000052|	Van der Waerden, B. L.	Gruppen von linearen Transformationen	|		Berlin	Springer	1935	Van der Waerden Gruppen linearen Transformationen 1935
+9789462391208/sfi|	Wolkenstein, Walentina Sergejewna	Aufgaben zur Physik	387144233X|		Zuerich	Deutsch	1975	Wolkenstein Aufgaben Physik 1975
+000000054|	Hund, Friedrich	Die Entwicklung und Bedeutung des Energiebegriffes	|		Leipzig	Barth	1943	Hund Entwicklung Bedeutung Energiebegriffes 1943
+000000056|	Riezler, Wolfgang	Kernphysikalisches Praktikum	|		Stuttgart	Teubner	1963	Riezler Kernphysikalisches Praktikum 1963
+9781484210321/sfi|	Lagally, Max	Vorlesungen ueber Vektorrechnung	|		Leipzig	Akad. Verl.-Ges.	1944	Lagally Vorlesungen ueber Vektorrechnung 1944
+000000061|	Murray, Raymond L.	Nuclear reactor physics	|		Englewood Cliffs	Prentice-Hall	1957	Murray Nuclear reactor physics 1957
+000000062|	Murrell, J. N.	Elektronenspektren organischer Molekuele	|		Mannheim	Bibliograph. Inst.	1967	Murrell Elektronenspektren organischer Molekuele 1967
+000000063|	Eder, Gernot	Elektrodynamik	|		Mannheim	Bibliograph. Inst.	1967	Eder Elektrodynamik 1967
+9783319223322/sfi|	Doering, Werner	Einfuehrung in die theoretische Physik	|	3., verb. Aufl.	Berlin	de Gruyter	1965	Doering Einfuehrung theoretische Physik 1965
+000000068|	Daenzer, H.	Einfuehrung in die theoretische Kernphysik	|		Karlsruhe	Braun	1948	Daenzer Einfuehrung theoretische Kernphysik 1948
+9781587144486/sfi|	Knopp, Konrad	Theory of functions	|		New York	Dover	1945	Knopp Theory functions 1945
+000000070|	Knopp, Konrad	Theory of functions	|		New York	Dover	1947	Knopp Theory functions 1947
+000000071|	Wentzel, Gregor	Quantum theory of fields	|		New York	Interscience	1949	Wentzel Quantum theory fields 1949
+9781292109336/sfi|	Heisenberg, Werner	Die Physik der Atomkerne	|	2. Aufl.	Braunschweig	Vieweg	1947	Heisenberg Physik Atomkerne 1947
+000000073|	Sieber, Helmut	Mathematische Tafeln	|	1. Aufl.	Stuttgart	Klett	1971	Sieber Mathematische Tafeln 1971
+000000074|	Heisenberg, W.	Quantentheorie der Wellenfelder	|		Deutschland	(Manuskript)	1947	Heisenberg Quantentheorie Wellenfelder 1947
+000000076|	Grmela, M.	Global analysis	|		Berlin	Springer	1979	Grmela Global analysis 1979
+000000080|	Endo, I.	Meeting on nucleon-nucleon interactions and dibaryon resonances. Hiroshima, Japan November 26-27, 1979	|		Hiroshima	Hiroshima Univ. Dept. of Phys.	1980	Endo Meeting nucleon-nucleon interactions dibaryon resonances Hiroshima Japan November 26-27 1980
+000000082|	Jelley, J. V.	Cherenkov radiation and its applications	|		New York	Pergamon	1958	Jelley Cherenkov radiation applications 1958
+000000083|	Hagedorn, R.	Relativistic kinematics	|		New York	Benjamin	1963	Hagedorn Relativistic kinematics 1963
+000000084|	Gell-Mann, Murray	The eightfold way	|		New York	Benjamin	1964	Gell-Mann eightfold 1964
+000000085|	Morse, Ph. M.	Methods of theoretical physics. Part I. Chapters 1 to 8	|		New York	McGraw-Hill	1953	Morse Methods theoretical physics Chapters 1953
+000000086|	Morse, P. M.	Methods of theoretical physics. Pt. 2, Chapters 9 to 13	|		New York	McGraw-Hill	1953	Morse Methods theoretical physics Chapters 1953
+000000087|	Mayer-Kuckuk, Theo.	Physik der Atomkerne	3519130211|	2., ueberarb. Aufl.	Stuttgart	Teubner	1974	Mayer-Kuckuk Physik Atomkerne 1974
+000000088|	Sommerfeld, Arnold	Atombau und Spektrallinien	|	2., umgearb. u. erw. Aufl.	Braunschweig	Vieweg	1939	Sommerfeld Atombau Spektrallinien 1939
+000000089|	Vilbig, F.	Lehrbuch der Hochfrequenztechnik	|	4. Aufl.	Leipzig	Akad. Verl.-Ges.	1944	Vilbig Lehrbuch Hochfrequenztechnik 1944
+000000090|	Sakurai, J. J.	Invariance principles and elementary particles	|		Princeton	Princeton Univ. Pr.	1964	Sakurai Invariance principles elementary particles 1964
+000000091|	Livingston, M. S.	Particle accelerators	|		New York	McGraw-Hill	1962	Livingston Particle accelerators 1962
+000000093|	Schwinger, J.	Selected papers on quantum electrodynamics	|		New York	Dover	1958	Schwinger Selected papers quantum electrodynamics 1958
+000000094|	Shutt, R. P.	Bubble and spark chambers. I	|		New York	Academic	1967	Shutt Bubble spark chambers 1967
+000000095|	Shutt, R. P.	Bubble and spark chambers. II	|		New York	Academic	1967	Shutt Bubble spark chambers 1967
+000000096|	Jackson, J. D.	The physics of elementary particles	|		Princeton	Princeton Univ. Pr.	1958	Jackson physics elementary particles 1958
+000000097|	Persico, Enrico	Principles of particle accelerators	|		New York	Benjamin	1968	Persico Principles particle accelerators 1968
+000000098|	Schweber, S. S.	An introduction to relativistic quantum field theory	|		New York	Harper & Row	1964	Schweber introduction relativistic quantum field theory 1964
+000000099|	Hamilton, J.	The theory of elementary particles	|		London	Oxford Univ. Pr.	1959	Hamilton theory elementary particles 1959
+000000102|	Klinger, H. H.	Laser, Erzeugung und Anwendung kohaerenten Lichtes	|	2., neubearb. Aufl.	Stuttgart	Telekosmos	1965	Klinger Laser Erzeugung Anwendung kohaerenten Lichtes 1965
+000000103|	Kokkedee, J. J. J.	The quark model	|		New York	Benjamin	1969	Kokkedee quark model 1969
+000000104|	Kaellen, G.	Elementary particle physics	|		Reading	Addison-Wesley	1964	Kaellen Elementary particle physics 1964
+000000105|	Lichtenberg, D. B.	Meson and baryon spectroscopy	|		New York	Springer	1965	Lichtenberg Meson baryon spectroscopy 1965
+000000106|	Chew, G. F.	S-matrix theory of strong interactions	|		New York	Benjamin	1961	Chew S-matrix theory strong interactions 1961
+000000107|	Dertinger, Hermann	Molekulare Strahlenbiologie	|		Berlin	Springer	1969	Dertinger Molekulare Strahlenbiologie 1969
+000000108|	Dalitz, R. H.	Strange particles and strong interactions	|		London	Oxford Univ. Pr.	1962	Dalitz Strange particles strong interactions 1962
+000000109|	Feynman, Richard P.	The Feynman lectures on physics	|		Reading	Addison-Wesley	1963	Feynman Feynman lectures physics 1963
+000000110|	Feynman, Richard P.	The Feynman lectures on physics	|		Reading	Addison-Wesley	1964	Feynman Feynman lectures physics 1964
+000000111|	Feynman, Richard P.	The Feynman lectures on physics	|		Reading	Addison-Wesley	1965	Feynman Feynman lectures physics 1965
+000000113|	Marmier, P.	Kernphysik 1	|	3. Aufl.	Zuerich	Verein Math. Phys. ETH	1965	Marmier Kernphysik 1965
+000000114|	Marmier, P.	Kernphysik II	|		Zuerich	Verein Math. Phys. ETH	1961	Marmier Kernphysik 1961
+000000115|	Bethe, H. A.	Mesons and fields	|		Evanston	Row-Peterson	1956	Bethe Mesons fields 1956
+000000116|	Segre, E.	Nuclei and particles. An introduction to nuclear and subnuclear physics	|		New York	Benjamin	1964	Segre Nuclei particles introduction nuclear subnuclear physics 1964
+000000117|	Blatt, J. M.	Theoretical nuclear physics	|		New York	Wiley	1962	Blatt Theoretical nuclear physics 1962
+000000118|	Bjorken, James D.	Relativistic quantum fields	|		New York	McGraw-Hill	1965	Bjorken Relativistic quantum fields 1965
+000000119|	Bak, T. B.	Mathematics for scientists	|		New York	W.A. Benjamin	1966	Bak Mathematics scientists 1966
+000000121|	Armenteros, R.	Physics from friends	|		Geneva	Multi Office	1978	Armenteros Physics friends 1978
+000000126|	Bates, D. R.	Advances in atomic and molecular physics. Vol. 14	0120038145|		New York	Academic	1978	Bates Advances atomic molecular physics 1978
+000000127|	Bates, D. R.	Advances in atomic and molecular physics. Vol. 15	0120038153|		New York	Academic	1979	Bates Advances atomic molecular physics 1979
+000000128|	Craddock, M. K.	The kaon factory	|		Vancouver	TRIUMF	1979	Craddock factory 1979
+000000129|	Ing, H.	Compendium of neutron spectra in criticality accident dosimetry	9201251785|		Vienna	IAEA	1978	Ing Compendium neutron spectra criticality accident dosimetry 1978
+000000130|	Drawe, H.	Angewandte Strahlenchemie	3778502751|		Heidelberg	Huethig	1973	Drawe Angewandte Strahlenchemie 1973
+000000136|	Fermi, E.	Elementary particles	|	2nd ed.	New Haven	Yale Univ. Pr.	1952	Fermi Elementary particles 1952
+000000137|	Bothe, W.	Handbuch der Physik	|	2. Aufl.	Berlin	Springer	1933	Bothe Handbuch Physik 1933
+000000138|	Haber-Schaim, U.	PSSC (Physical Science Study Committee)	0669188956|	3rd ed.	Lexington	D.C. Heath & Co	1971	Haber-Schaim Physical Science Study Committee 1971
+000000139|	Vogt, H.	Aufbau und Entwicklung der Sterne	|		Leipzig	Akad. Verl.-Ges.	1943	Vogt Aufbau Entwicklung Sterne 1943
+000000141|	Jahnke, E.	Tables of functions with formulae and curves	|	4th, rev. ed.	New York	Dover	1945	Jahnke Tables functions formulae curves 1945
+000000142|	Gasiorowicz, S.	Elementary particle physics	|		New York	Wiley	1966	Gasiorowicz Elementary particle physics 1966
+000000143|	Wu, C. S.	Beta decay	|		New York	Wiley	1966	Wu decay 1966
+000000145|	Weizel, W.	Physikalische Formelsammlung	|		Mannheim	Bibliograph. Inst.	1966	Weizel Physikalische Formelsammlung 1966
+000000146|	Diefenbach, W. W.	Handbuch fuer Hochfrequenz- und Elektro-Techniker	|		Berlin	Verl. Radio-Foto-Kinotechnik	1957	Diefenbach Handbuch Hochfrequenz- Elektro-Techniker 1957
+000000147|	White, H. E.	Introduction to atomic spectra	|	Internat. student ed.	New York	McGraw-Hill	1934	White Introduction atomic spectra 1934
