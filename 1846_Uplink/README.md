@@ -13,6 +13,7 @@ Zum bearbeiten:
 - Lokal speichern
 - Tabellenkalkulation öffnen
 - Datei in leeres Blatt werfen (Drag&Drop)
+- Mit Ansicht / Fenster einfrieren Spalten und Kopfzeile feststellen
 - Fehlende Daten ergänzen
 - Datei speichern, Format ist CSV
 - Datei wieder in den Browser werfen
